@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main(){int main() {
+int main() {
     char input;
     cout<<"Inserisci qualcosa: ";
     cin >> input;
