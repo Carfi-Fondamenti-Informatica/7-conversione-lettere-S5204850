@@ -1,2 +1,2 @@
-bool isChar();
+bool isChar(char);
 
