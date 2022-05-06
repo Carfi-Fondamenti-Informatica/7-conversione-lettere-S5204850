@@ -1,5 +1,6 @@
+#include "lib.h"
 
-bool isChar(char &myChar){
+bool funzione(char &myChar){
     if(myChar >= 65 && myChar <= 90){
         myChar = myChar + 32;
         return true;
